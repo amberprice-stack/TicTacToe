@@ -6,7 +6,5 @@ TicTacToe is a two-player game. Player 1 is X, and Player 2 is O. The players wi
 
 # Built With
 * NetBeans
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 # Authors
 * Amber Price
